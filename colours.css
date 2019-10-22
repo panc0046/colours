@@ -67,6 +67,7 @@ main h2 {
 main p {
   font-size: 1rem;
   margin: 1rem 0;
+  color: var(--grey4);
 }
 
 ul {
@@ -75,13 +76,16 @@ ul {
 
 main li {
   font-size: 1rem;
+  color: var(--grey4);
 }
 
 footer {
   padding: 1rem 2rem;
+  background-color: var(--primary1);
 }
 
 footer p {
   margin: 1rem 0;
   font-size: 0.8rem;
+  color: var(--secondary2);
 }
