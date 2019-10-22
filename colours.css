@@ -1,6 +1,7 @@
 /**
 Import Sans-Serif Web Font here using @import
 **/
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 /**
 Create your CSS colour variables up here
 **/
@@ -20,6 +21,7 @@ Create your CSS colour variables up here
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: Muli, Arial, sans-serif;
 }
 
 html {
