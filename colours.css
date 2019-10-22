@@ -44,12 +44,14 @@ nav {
   flex-direction: row;
   justify-content: space-evenly;
   align-items: flex-start;
+  background-color: var(--grey2);
 }
 
 nav a {
   font-weight: 700;
   font-size: 1.2rem;
   text-decoration: none;
+  color: var(--secondary1);
 }
 
 main {
