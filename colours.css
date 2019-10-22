@@ -56,10 +56,12 @@ nav a {
 
 main {
   padding: 1rem 2rem;
+  background-color: var(--grey1);
 }
 
 main h2 {
   font-size: 2rem;
+  color: var(--grey3);
 }
 
 main p {
